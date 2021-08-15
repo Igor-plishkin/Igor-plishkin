@@ -14,6 +14,12 @@
 ![webpack_original_logo_icon_146300](https://user-images.githubusercontent.com/61779895/129474461-d59a3c18-6fee-4e36-a5ab-f6409a28d2b9.png)
 ![nodejs_original_wordmark_logo_icon_146412](https://user-images.githubusercontent.com/61779895/129474477-71dd9a16-1633-4af7-90ba-2030f420119c.png)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igor-plishkin&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-plishkin&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
